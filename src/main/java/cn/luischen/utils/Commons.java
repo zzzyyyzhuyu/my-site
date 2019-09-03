@@ -429,7 +429,7 @@ public class Commons {
                 }
             }
         }
-        return "";
+        return randomBlogPic(null);
     }
 
     /**
